@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 105" width="140" height="105">
+  <!-- Double Track Parallel Interlocking SJ Monogram matching Image 1 -->
+  <!-- Outer S Track -->
+  <path d="M 88,14 L 44,14 C 24,14 14,24 14,38 C 14,52 24,58 46,58 C 68,58 78,64 78,78 C 78,92 66,94 44,94 L 4,94" 
+        fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Inner S Track -->
+  <path d="M 76,24 L 44,24 C 32,24 24,28 24,38 C 24,47 32,49 46,49 C 72,49 88,55 88,78 C 88,86 80,85 64,85 L 14,85" 
+        fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Outer J Track -->
+  <path d="M 98,14 L 128,14 M 128,14 L 128,74 C 128,90 114,94 98,94 C 82,94 74,84 74,74" 
+        fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Inner J Track -->
+  <path d="M 98,24 L 118,24 M 118,24 L 118,74 C 118,83 110,85 98,85 C 88,85 82,80 82,74" 
+        fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
